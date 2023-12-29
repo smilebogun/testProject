@@ -1,5 +1,0 @@
-# board
-1. view 완성
-2. controller 완성
-3. pagination 완성
-4. board 전체 완성
